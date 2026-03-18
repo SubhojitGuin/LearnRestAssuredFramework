@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+    <reporter-output>
+    </reporter-output>
+    <suite started-at="2026-03-18T21:31:18 IST" name="Default Suite"
+           finished-at="2026-03-18T21:31:27 IST" duration-ms="9007">
+        <groups>
+        </groups>
+        <test started-at="2026-03-18T21:31:18 IST" name="LearnRestAssuredFramework"
+              finished-at="2026-03-18T21:31:27 IST" duration-ms="9007">
+            <class name="apiTests.E2ETests">
+                <test-method is-config="true"
+                             signature="fetchData()[pri:0, instance:apiTests.E2ETests@6193932a]"
+                             started-at="2026-03-18T21:31:18 IST" name="fetchData"
+                             finished-at="2026-03-18T21:31:18 IST" duration-ms="14"
+                             status="PASS">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- fetchData -->
+                <test-method is-config="true"
+                             signature="setup()[pri:0, instance:apiTests.E2ETests@6193932a]"
+                             started-at="2026-03-18T21:31:18 IST" name="setup"
+                             finished-at="2026-03-18T21:31:24 IST" duration-ms="5574"
+                             status="PASS">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- setup -->
+                <test-method
+                        signature="getAllBooks()[pri:0, instance:apiTests.E2ETests@6193932a]"
+                        started-at="2026-03-18T21:31:24 IST" name="getAllBooks"
+                        finished-at="2026-03-18T21:31:26 IST" duration-ms="1878"
+                        status="PASS">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- getAllBooks -->
+                <test-method is-config="true"
+                             signature="deleteUser()[pri:0, instance:apiTests.E2ETests@6193932a]"
+                             started-at="2026-03-18T21:31:26 IST" name="deleteUser"
+                             finished-at="2026-03-18T21:31:27 IST" duration-ms="1526"
+                             status="PASS">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- deleteUser -->
+            </class> <!-- apiTests.E2ETests -->
+        </test> <!-- LearnRestAssuredFramework -->
+    </suite> <!-- Default Suite -->
+</testng-results>
