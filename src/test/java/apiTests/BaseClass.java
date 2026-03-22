@@ -75,7 +75,6 @@ public class BaseClass extends ReadDataFromPropertiesFile {
     public void deleteUser() {
 
         Response response = given()
-                .log().all()
                 .contentType(ContentType.JSON)
                 .relaxedHTTPSValidation()
                 .baseUri(baseUrl)

@@ -2,7 +2,6 @@ body {
     background-color: whitesmoke;
     margin: 0 0 5px 5px;
 }
-
 ul {
     margin-top: 10px;
     margin-left: -10px;
@@ -345,5 +344,4 @@ table.google-visualization-table-table {
     width: 150px;
     outline: none;
 }
-
 /*Author: - Akhil Gullapalli*/
